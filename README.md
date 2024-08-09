@@ -1,15 +1,19 @@
-<!-- markdownlint-disable MD030 -->
+To adapt the Langflow project into a new project called "LexiorFlow" for the legal domain with a dual license, you can follow these steps:
 
-# [![Langflow](./docs/static/img/hero.png)](https://www.langflow.org)
+### Project Overview
+Adapt the original project text to reflect the new purpose and rebranding. Here’s how you can modify the README:
+
+---
+
+# [![LexiorFlow](./docs/static/img/hero.png)](https://www.lexiorflow.org)
 
 <p align="center" style="font-size: 12px;">
-    Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+    LexiorFlow is a low-code app builder tailored for legal AI applications. It’s Python-based and agnostic to any model, API, or database.
 </p>
 
 <p align="center" style="font-size: 12px;">
-    <a href="https://docs.langflow.org" style="text-decoration: underline;">Docs</a> -
-    <a href="http://langflow.datastax.com" style="text-decoration: underline;">Free Cloud Service</a>  
-    
+    <a href="https://docs.lexiorflow.org" style="text-decoration: underline;">Docs</a> -
+    <a href="http://lexiorflow.datastax.com" style="text-decoration: underline;">Free Cloud Service</a>  
 </p>
 
 <div align="center">
@@ -21,55 +25,80 @@
 </div>
 
 <p align="center">
-
-https://github.com/user-attachments/assets/a1a36011-6169-4804-87ad-cfd4c5a79872
-
+<!-- Here you might add a relevant image or keep it as is -->
 </p>
 
-# 🔧 Core features 
-1. **Python-based** and agnostic to models, APIs, data sources, or databases.
-2. **Visual IDE** for drag-and-drop building and testing of workflows.
+# 🔧 Core Features
+1. **Python-based** and agnostic to models, APIs, data sources, or databases, focused on legal AI solutions.
+2. **Visual IDE** for drag-and-drop building and testing of legal workflows.
 3. **Playground** to immediately test and iterate workflows with step-by-step control.
-4. **Multi-agent** orchestration and conversation management and retrieval.
+4. **Multi-agent** orchestration and conversation management and retrieval for legal domain-specific tasks.
 5. **Free cloud service** to get started in minutes with no setup.
-6. **Publish as an API** or export as a Python application.
-7. **Observability** with LangSmith, LangFuse, or LangWatch integration.
-8. **Enterprise-grade** security and scalability with free DataStax Langflow cloud service.  
-9. **Customize workflows** or create flows entirely just using Python.
-10. **Ecosystem integrations** as reusable components for any model, API or database.
-
+6. **Publish as an API** or export as a Python application, optimized for legal use cases.
+7. **Observability** with LexiorFlow's integrations for monitoring and auditing legal AI processes.
+8. **Enterprise-grade** security and scalability with a free DataStax LexiorFlow cloud service.
+9. **Customize workflows** or create flows entirely just using Python for legal solutions.
+10. **Ecosystem integrations** as reusable components for legal models, APIs, or databases.
 
 ![Integrations](https://github.com/user-attachments/assets/df4a6714-60de-4a8b-aff0-982c5aa467e3)
 
-# 📅 Stay up-to-date
+# 📅 Stay Up-to-Date
 
-Star Langflow on GitHub to be instantly notified of new releases.
+Star LexiorFlow on GitHub to be instantly notified of new releases.
 
-![Star Langflow](https://github.com/user-attachments/assets/03168b17-a11d-4b2a-b0f7-c1cce69e5a2c)
+![Star LexiorFlow](https://github.com/user-attachments/assets/03168b17-a11d-4b2a-b0f7-c1cce69e5a2c)
 
 # 📦 Quickstart
 
-- **Install Langflow with pip** (Python version 3.10 or greater):
+- **Install LexiorFlow with pip** (Python version 3.10 or greater):
 ```shell
-pip install langflow -U
+pip install lexiorflow -U
 ```
 
-- **Cloud:** DataStax Langflow is a hosted environment with zero setup. [Sign up for a free account.](http://langflow.datastax.com) 
-- **Self-managed:** Run Langflow in your environment. [Install Langflow](https://docs.langflow.org/getting-started-installation) to run a local Langflow server, and then use the [Quickstart](https://docs.langflow.org/getting-started-quickstart) guide to create and execute a flow.
-- **Hugging Face:** [Clone the space using this link](https://huggingface.co/spaces/Langflow/Langflow?duplicate=true) to create a Langflow workspace.
+- **Cloud:** DataStax LexiorFlow is a hosted environment with zero setup. [Sign up for a free account.](http://lexiorflow.datastax.com) 
+- **Self-managed:** Run LexiorFlow in your environment. [Install LexiorFlow](https://docs.lexiorflow.org/getting-started-installation) to run a local LexiorFlow server, and then use the [Quickstart](https://docs.lexiorflow.org/getting-started-quickstart) guide to create and execute a flow.
+- **Hugging Face:** [Clone the space using this link](https://huggingface.co/spaces/LexiorFlow/LexiorFlow?duplicate=true) to create a LexiorFlow workspace.
 
 # 👋 Contribute
 
-We welcome contributions from developers of all levels to our open-source project on GitHub. If you'd like to contribute, please check our [contributing guidelines](./CONTRIBUTING.md) and help make Langflow more accessible.
+We welcome contributions from developers of all levels to our open-source project on GitHub. If you'd like to contribute, please check our [contributing guidelines](./CONTRIBUTING.md) and help make LexiorFlow more accessible.
 
 ---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=langflow-ai/langflow&type=Timeline)](https://star-history.com/#langflow-ai/langflow&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lexiorflow-ai/lexiorflow&type=Timeline)](https://star-history.com/#lexiorflow-ai/lexiorflow&Date)
 
 # 🌟 Contributors
 
-[![langflow contributors](https://contrib.rocks/image?repo=langflow-ai/langflow)](https://github.com/langflow-ai/langflow/graphs/contributors)
+[![lexiorflow contributors](https://contrib.rocks/image?repo=lexiorflow-ai/lexiorflow)](https://github.com/lexiorflow-ai/lexiorflow/graphs/contributors)
 
 # 📄 License
 
-Langflow is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+LexiorFlow is released under a dual license: MIT and proprietary license for certain features. The original project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+### Key Changes
+1. **Project Name**: Changed from "Langflow" to "LexiorFlow."
+2. **Focus Area**: Updated to focus on the legal domain.
+3. **License Section**: Updated to indicate the dual licensing model.
+
+### Setting Up Dual Licensing
+To implement dual licensing:
+1. **Retain the Original MIT License**:
+   - Keep the `LICENSE` file with the original MIT License text.
+   - Acknowledge the original Langflow project and its contributors.
+
+2. **Add Your Own License**:
+   - Create a `LICENSE_proprietary.txt` or similar file.
+   - Specify that certain features or modules of LexiorFlow are licensed under a proprietary license.
+   - Clarify in the README and documentation which parts are covered by the proprietary license and which are under MIT.
+
+3. **Include a Licensing Notice**:
+   - Add a clear notice at the beginning of your README.md and in relevant code files to indicate the dual licensing model.
+   - Example:
+     ```markdown
+     ## Licensing
+     LexiorFlow is dual-licensed under the MIT License for the core framework and a proprietary license for advanced features related to the legal domain. For more information, see the LICENSE files in this repository.
+     ```
+
+Following these steps will help you legally and clearly adapt the project while introducing a dual licensing model.
